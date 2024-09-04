@@ -1,2 +1,2 @@
-# new-repo
+# Read me
 my first repo
